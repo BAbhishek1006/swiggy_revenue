@@ -1,0 +1,1001 @@
+order_date,City,Id_user,Item_name,price,Category
+2024-03-15,Kolkata,1729,Rajma Chawal,462,Main Course
+2024-03-28,Bangalore,1036,Sabudana Khichdi,497,Breakfast
+2024-03-03,Bangalore,1773,Rajma Chawal,306,Main Course
+2024-03-18,Chennai,1542,Fish Curry,419,Main Course
+2024-03-27,Mumbai,1131,Rava Idli,425,Breakfast
+2024-03-21,Chennai,1251,Rajma Chawal,157,Main Course
+2024-03-18,Hyderabad,1515,Idli Sambar,95,Breakfast
+2024-03-07,Chennai,1237,Paneer Tikka,68,Starter
+2024-03-22,Bangalore,1201,Chole Bhature,461,Breakfast
+2024-03-24,Hyderabad,1572,Vada Pav,327,Snacks
+2024-03-13,Mumbai,1378,Chole Bhature,333,Breakfast
+2024-03-25,Chennai,1722,Hyderabadi Haleem,483,Main Course
+2024-03-21,Delhi,1445,Rava Idli,82,Breakfast
+2024-03-03,Pune,1663,Idli Sambar,372,Breakfast
+2024-03-24,Chennai,1145,Aloo Paratha,333,Breakfast
+2024-03-14,Mumbai,1348,Hyderabadi Haleem,346,Main Course
+2024-03-18,Pune,1326,Chicken Roll,82,Snacks
+2024-03-05,Bangalore,1790,Paneer Tikka,485,Starter
+2024-03-06,Pune,1627,Paniyaram,313,Snacks
+2024-03-14,Chennai,1703,Fish Curry,186,Main Course
+2024-03-16,Kolkata,1429,Sabudana Khichdi,455,Breakfast
+2024-03-22,Chennai,1489,Rava Idli,354,Breakfast
+2024-03-12,Hyderabad,1165,Pav Bhaji,207,Main Course
+2024-03-21,Bangalore,1396,Paneer Tikka,294,Starter
+2024-03-21,Pune,1785,Paneer Butter Masala,203,Main Course
+2024-03-16,Hyderabad,1116,Chole Bhature,276,Breakfast
+2024-03-03,Chennai,1590,Chole Bhature,416,Breakfast
+2024-03-05,Bangalore,1442,Paneer Tikka,486,Starter
+2024-03-19,Kolkata,1084,Idli Sambar,270,Breakfast
+2024-03-26,Pune,1452,Paneer Tikka,450,Starter
+2024-03-18,Pune,1662,Modak,378,Dessert
+2024-03-14,Bangalore,1883,Idli Sambar,467,Breakfast
+2024-03-10,Chennai,1423,Paneer Tikka,153,Starter
+2024-03-15,Kolkata,1583,Filter Coffee,254,Beverage
+2024-03-26,Bangalore,1718,Chole Bhature,415,Breakfast
+2024-03-30,Bangalore,1640,Hyderabadi Haleem,499,Main Course
+2024-03-12,Bangalore,1910,Misal Pav,358,Snacks
+2024-03-25,Pune,1082,Biryani,87,Main Course
+2024-03-16,Hyderabad,1526,Rava Idli,182,Breakfast
+2024-03-19,Chennai,1133,Aloo Paratha,388,Breakfast
+2024-03-12,Pune,1957,Misal Pav,372,Snacks
+2024-03-16,Pune,1805,Sabudana Khichdi,359,Breakfast
+2024-03-02,Kolkata,1424,Hyderabadi Haleem,401,Main Course
+2024-03-13,Mumbai,1008,Rajma Chawal,157,Main Course
+2024-03-14,Kolkata,1890,Filter Coffee,410,Beverage
+2024-03-06,Pune,1127,Aloo Paratha,472,Breakfast
+2024-03-07,Hyderabad,1768,Misal Pav,146,Snacks
+2024-03-14,Mumbai,1035,Fish Curry,403,Main Course
+2024-03-29,Mumbai,1009,Rajma Chawal,294,Main Course
+2024-03-07,Bangalore,1686,Dosa,237,Breakfast
+2024-03-09,Pune,1003,Rava Idli,262,Breakfast
+2024-03-08,Pune,1783,Aloo Paratha,321,Breakfast
+2024-03-04,Delhi,1931,Filter Coffee,483,Beverage
+2024-03-28,Kolkata,1321,Masala Dosa,74,Breakfast
+2024-03-16,Pune,1619,Mutton Biryani,56,Main Course
+2024-03-01,Hyderabad,1300,Chicken 65,86,Starter
+2024-03-20,Hyderabad,1845,Sandesh,71,Dessert
+2024-03-02,Chennai,1360,Pav Bhaji,373,Main Course
+2024-03-23,Bangalore,1954,Chicken 65,401,Starter
+2024-03-09,Kolkata,1125,Paneer Tikka,81,Starter
+2024-03-06,Mumbai,1846,Filter Coffee,297,Beverage
+2024-03-09,Mumbai,1758,Double Ka Meetha,319,Dessert
+2024-03-20,Hyderabad,1699,Double Ka Meetha,284,Dessert
+2024-03-19,Kolkata,1763,Aloo Paratha,358,Breakfast
+2024-03-29,Kolkata,1941,Ragi Mudde,424,Main Course
+2024-03-25,Mumbai,1427,Chicken 65,158,Starter
+2024-03-25,Delhi,1947,Double Ka Meetha,385,Dessert
+2024-03-03,Bangalore,1807,Matki Bhel,463,Snacks
+2024-03-23,Kolkata,1402,Chicken 65,333,Starter
+2024-03-22,Mumbai,1378,Misal Pav,465,Snacks
+2024-03-16,Bangalore,1200,Vada Pav,132,Snacks
+2024-03-21,Kolkata,1982,Paneer Butter Masala,68,Main Course
+2024-03-15,Chennai,1621,Rajma Chawal,232,Main Course
+2024-03-04,Hyderabad,1453,Vada Pav,417,Snacks
+2024-03-29,Mumbai,1820,Pav Bhaji,381,Main Course
+2024-03-15,Hyderabad,1385,Chole Bhature,419,Breakfast
+2024-03-04,Hyderabad,1258,Idli Sambar,390,Breakfast
+2024-03-24,Kolkata,1062,Paniyaram,298,Snacks
+2024-03-13,Chennai,1730,Misal Pav,352,Snacks
+2024-03-26,Pune,1329,Ragi Mudde,135,Main Course
+2024-03-30,Pune,1408,Paneer Tikka,241,Starter
+2024-03-22,Mumbai,1642,Chole Bhature,309,Breakfast
+2024-03-07,Delhi,1038,Chicken Roll,361,Snacks
+2024-03-31,Bangalore,1782,Matki Bhel,445,Snacks
+2024-03-24,Mumbai,1605,Rava Idli,235,Breakfast
+2024-03-08,Pune,1650,Chicken Roll,241,Snacks
+2024-03-13,Pune,1117,Double Ka Meetha,465,Dessert
+2024-03-19,Mumbai,1044,Ragi Mudde,102,Main Course
+2024-03-17,Hyderabad,1398,Chicken Roll,292,Snacks
+2024-03-21,Mumbai,1211,Paniyaram,230,Snacks
+2024-03-01,Chennai,1914,Chole Bhature,499,Breakfast
+2024-03-08,Kolkata,1529,Pav Bhaji,275,Main Course
+2024-03-22,Chennai,1662,Mutton Biryani,229,Main Course
+2024-03-15,Pune,1826,Chicken 65,383,Starter
+2024-03-20,Pune,1701,Filter Coffee,472,Beverage
+2024-03-31,Delhi,1916,Paneer Butter Masala,449,Main Course
+2024-03-24,Delhi,1392,Matki Bhel,305,Snacks
+2024-03-27,Hyderabad,1132,Idli Sambar,279,Breakfast
+2024-03-24,Hyderabad,1242,Paneer Tikka,153,Starter
+2024-03-27,Delhi,1264,Chicken 65,221,Starter
+2024-03-10,Mumbai,1228,Masala Dosa,471,Breakfast
+2024-03-01,Pune,1371,Chole Bhature,207,Breakfast
+2024-03-02,Chennai,1805,Paneer Tikka,379,Starter
+2024-03-28,Hyderabad,1668,Rosogolla,440,Dessert
+2024-03-26,Hyderabad,1411,Chicken 65,274,Starter
+2024-03-11,Mumbai,1194,Hyderabadi Haleem,397,Main Course
+2024-03-27,Pune,1134,Chole Bhature,115,Breakfast
+2024-03-03,Hyderabad,1887,Sandesh,58,Dessert
+2024-03-19,Pune,1205,Chicken Roll,326,Snacks
+2024-03-01,Pune,1378,Matki Bhel,76,Snacks
+2024-03-24,Pune,1230,Sandesh,407,Dessert
+2024-03-12,Kolkata,1560,Mutton Biryani,296,Main Course
+2024-03-14,Bangalore,1528,Pav Bhaji,209,Main Course
+2024-03-13,Bangalore,1306,Pav Bhaji,279,Main Course
+2024-03-06,Mumbai,1259,Double Ka Meetha,186,Dessert
+2024-03-11,Pune,1963,Matki Bhel,365,Snacks
+2024-03-29,Delhi,1273,Fish Curry,129,Main Course
+2024-03-09,Bangalore,1193,Idli Sambar,330,Breakfast
+2024-03-01,Bangalore,1767,Sandesh,358,Dessert
+2024-03-05,Mumbai,1752,Paniyaram,218,Snacks
+2024-03-04,Chennai,1593,Paneer Butter Masala,346,Main Course
+2024-03-22,Delhi,1663,Poha,199,Breakfast
+2024-03-12,Kolkata,1748,Matki Bhel,246,Snacks
+2024-03-16,Bangalore,1004,Biryani,359,Main Course
+2024-03-08,Chennai,1780,Filter Coffee,423,Beverage
+2024-03-19,Kolkata,1783,Aloo Paratha,81,Breakfast
+2024-03-03,Bangalore,1514,Dosa,388,Breakfast
+2024-03-24,Mumbai,1482,Pav Bhaji,375,Main Course
+2024-03-21,Chennai,1187,Dosa,261,Breakfast
+2024-03-01,Pune,1544,Paniyaram,321,Snacks
+2024-03-16,Pune,1828,Hyderabadi Haleem,472,Main Course
+2024-03-10,Pune,1747,Chole Bhature,99,Breakfast
+2024-03-01,Pune,1658,Aloo Paratha,212,Breakfast
+2024-03-23,Pune,1619,Chicken Roll,124,Snacks
+2024-03-03,Hyderabad,1097,Filter Coffee,450,Beverage
+2024-03-14,Bangalore,1003,Chicken Roll,492,Snacks
+2024-03-10,Hyderabad,1963,Rosogolla,310,Dessert
+2024-03-29,Pune,1650,Chicken 65,348,Starter
+2024-03-16,Hyderabad,1446,Mutton Biryani,397,Main Course
+2024-03-20,Delhi,1014,Aloo Paratha,59,Breakfast
+2024-03-30,Bangalore,1080,Aloo Paratha,157,Breakfast
+2024-03-09,Kolkata,1741,Biryani,336,Main Course
+2024-03-27,Pune,1899,Biryani,82,Main Course
+2024-03-24,Mumbai,1707,Fish Curry,171,Main Course
+2024-03-20,Pune,1503,Vada Pav,81,Snacks
+2024-03-22,Mumbai,1130,Rava Idli,447,Breakfast
+2024-03-04,Mumbai,1179,Masala Dosa,73,Breakfast
+2024-03-02,Bangalore,1497,Ragi Mudde,411,Main Course
+2024-03-05,Mumbai,1996,Paneer Butter Masala,254,Main Course
+2024-03-12,Pune,1868,Matki Bhel,244,Snacks
+2024-03-08,Delhi,1718,Aloo Paratha,232,Breakfast
+2024-03-17,Pune,1669,Ragi Mudde,483,Main Course
+2024-03-11,Delhi,1411,Dosa,129,Breakfast
+2024-03-09,Kolkata,1345,Chicken 65,64,Starter
+2024-03-15,Chennai,1738,Paneer Tikka,467,Starter
+2024-03-03,Hyderabad,1190,Poha,61,Breakfast
+2024-03-22,Mumbai,1914,Modak,444,Dessert
+2024-03-03,Hyderabad,1606,Matki Bhel,415,Snacks
+2024-03-16,Delhi,1013,Sabudana Khichdi,456,Breakfast
+2024-03-04,Mumbai,1676,Rajma Chawal,140,Main Course
+2024-03-28,Mumbai,1743,Masala Dosa,489,Breakfast
+2024-03-24,Chennai,1125,Rosogolla,454,Dessert
+2024-03-25,Hyderabad,1168,Idli Sambar,468,Breakfast
+2024-03-25,Delhi,1186,Paniyaram,478,Snacks
+2024-03-12,Bangalore,1562,Paneer Butter Masala,369,Main Course
+2024-03-07,Pune,1863,Sabudana Khichdi,66,Breakfast
+2024-03-15,Bangalore,1055,Biryani,372,Main Course
+2024-03-04,Pune,1975,Pav Bhaji,443,Main Course
+2024-03-28,Delhi,1385,Filter Coffee,381,Beverage
+2024-03-13,Chennai,1643,Paneer Butter Masala,461,Main Course
+2024-03-23,Mumbai,1143,Mutton Biryani,364,Main Course
+2024-03-02,Hyderabad,1503,Paniyaram,383,Snacks
+2024-03-24,Pune,1673,Masala Dosa,176,Breakfast
+2024-03-15,Delhi,1147,Chicken Roll,199,Snacks
+2024-03-30,Bangalore,1786,Modak,313,Dessert
+2024-03-14,Pune,1505,Filter Coffee,456,Beverage
+2024-03-22,Pune,1224,Vada Pav,362,Snacks
+2024-03-31,Chennai,1281,Chicken Roll,403,Snacks
+2024-03-10,Delhi,1139,Vada Pav,470,Snacks
+2024-03-01,Delhi,1462,Ragi Mudde,340,Main Course
+2024-03-30,Bangalore,1999,Filter Coffee,96,Beverage
+2024-03-25,Chennai,1480,Misal Pav,468,Snacks
+2024-03-20,Chennai,1739,Matki Bhel,215,Snacks
+2024-03-09,Bangalore,1273,Chicken Roll,55,Snacks
+2024-03-29,Hyderabad,1673,Matki Bhel,328,Snacks
+2024-03-29,Hyderabad,1774,Mutton Biryani,90,Main Course
+2024-03-30,Delhi,1588,Paneer Butter Masala,192,Main Course
+2024-03-18,Bangalore,1198,Modak,240,Dessert
+2024-03-10,Delhi,1455,Paniyaram,335,Snacks
+2024-03-25,Bangalore,1436,Hyderabadi Haleem,218,Main Course
+2024-03-31,Chennai,1184,Modak,469,Dessert
+2024-03-26,Chennai,1575,Matki Bhel,312,Snacks
+2024-03-21,Pune,1186,Chicken Roll,104,Snacks
+2024-03-05,Delhi,1634,Rava Idli,222,Breakfast
+2024-03-11,Hyderabad,1683,Hyderabadi Haleem,340,Main Course
+2024-03-25,Hyderabad,1037,Mutton Biryani,153,Main Course
+2024-03-12,Kolkata,1250,Fish Curry,500,Main Course
+2024-03-31,Mumbai,1933,Aloo Paratha,422,Breakfast
+2024-03-11,Pune,1913,Aloo Paratha,229,Breakfast
+2024-03-15,Delhi,1678,Masala Dosa,467,Breakfast
+2024-03-16,Bangalore,1890,Paneer Tikka,467,Starter
+2024-03-10,Bangalore,1052,Idli Sambar,412,Breakfast
+2024-03-05,Pune,1187,Fish Curry,369,Main Course
+2024-03-24,Pune,1269,Idli Sambar,153,Breakfast
+2024-03-29,Mumbai,1504,Paniyaram,380,Snacks
+2024-03-27,Bangalore,1751,Hyderabadi Haleem,491,Main Course
+2024-03-20,Hyderabad,1961,Double Ka Meetha,170,Dessert
+2024-03-24,Delhi,1779,Hyderabadi Haleem,335,Main Course
+2024-03-28,Chennai,1754,Hyderabadi Haleem,478,Main Course
+2024-03-21,Mumbai,1057,Sabudana Khichdi,80,Breakfast
+2024-03-21,Bangalore,1608,Biryani,251,Main Course
+2024-03-04,Mumbai,1463,Vada Pav,154,Snacks
+2024-03-11,Chennai,1675,Idli Sambar,128,Breakfast
+2024-03-14,Bangalore,1219,Rosogolla,498,Dessert
+2024-03-31,Chennai,1150,Idli Sambar,50,Breakfast
+2024-03-09,Mumbai,1467,Pav Bhaji,211,Main Course
+2024-03-23,Bangalore,1636,Matki Bhel,293,Snacks
+2024-03-25,Bangalore,1030,Rosogolla,199,Dessert
+2024-03-05,Mumbai,1970,Rosogolla,167,Dessert
+2024-03-19,Bangalore,1372,Sabudana Khichdi,333,Breakfast
+2024-03-12,Pune,1602,Mutton Biryani,261,Main Course
+2024-03-14,Delhi,1155,Modak,288,Dessert
+2024-03-14,Kolkata,1668,Chicken 65,500,Starter
+2024-03-29,Chennai,1688,Pav Bhaji,201,Main Course
+2024-03-14,Delhi,1808,Paneer Tikka,234,Starter
+2024-03-03,Delhi,1624,Paneer Tikka,179,Starter
+2024-03-19,Kolkata,1805,Filter Coffee,430,Beverage
+2024-03-09,Bangalore,1746,Rajma Chawal,328,Main Course
+2024-03-30,Hyderabad,1655,Dosa,277,Breakfast
+2024-03-12,Hyderabad,1382,Chicken 65,407,Starter
+2024-03-18,Hyderabad,1785,Sabudana Khichdi,168,Breakfast
+2024-03-13,Pune,1434,Rajma Chawal,376,Main Course
+2024-03-16,Hyderabad,1461,Paneer Butter Masala,146,Main Course
+2024-03-22,Chennai,1095,Paniyaram,337,Snacks
+2024-03-25,Chennai,1049,Vada Pav,69,Snacks
+2024-03-14,Pune,1248,Fish Curry,160,Main Course
+2024-03-08,Chennai,1275,Idli Sambar,453,Breakfast
+2024-03-18,Bangalore,1732,Modak,222,Dessert
+2024-03-01,Bangalore,1154,Rava Idli,161,Breakfast
+2024-03-23,Kolkata,1522,Poha,408,Breakfast
+2024-03-10,Delhi,1874,Paniyaram,252,Snacks
+2024-03-02,Chennai,1393,Rava Idli,469,Breakfast
+2024-03-29,Pune,1681,Pav Bhaji,137,Main Course
+2024-03-23,Chennai,1010,Masala Dosa,376,Breakfast
+2024-03-14,Chennai,1271,Idli Sambar,170,Breakfast
+2024-03-29,Bangalore,1956,Paniyaram,171,Snacks
+2024-03-22,Bangalore,1257,Rajma Chawal,98,Main Course
+2024-03-19,Pune,1203,Paneer Tikka,98,Starter
+2024-03-28,Chennai,1936,Rava Idli,351,Breakfast
+2024-03-12,Hyderabad,1528,Poha,79,Breakfast
+2024-03-04,Chennai,1242,Modak,320,Dessert
+2024-03-10,Delhi,1866,Chicken 65,225,Starter
+2024-03-09,Hyderabad,1209,Chicken Roll,225,Snacks
+2024-03-17,Bangalore,1659,Aloo Paratha,58,Breakfast
+2024-03-02,Delhi,1969,Hyderabadi Haleem,318,Main Course
+2024-03-27,Bangalore,1054,Biryani,494,Main Course
+2024-03-24,Bangalore,1162,Vada Pav,334,Snacks
+2024-03-24,Pune,1180,Pav Bhaji,352,Main Course
+2024-03-04,Kolkata,1925,Mutton Biryani,120,Main Course
+2024-03-12,Pune,1782,Aloo Paratha,257,Breakfast
+2024-03-11,Delhi,1140,Chicken Roll,429,Snacks
+2024-03-15,Chennai,1671,Misal Pav,150,Snacks
+2024-03-05,Delhi,1412,Hyderabadi Haleem,193,Main Course
+2024-03-23,Pune,1778,Paniyaram,328,Snacks
+2024-03-01,Kolkata,1209,Chicken 65,53,Starter
+2024-03-17,Delhi,1410,Aloo Paratha,303,Breakfast
+2024-03-14,Pune,1769,Idli Sambar,245,Breakfast
+2024-03-26,Pune,1549,Rajma Chawal,313,Main Course
+2024-03-25,Bangalore,1756,Chicken 65,461,Starter
+2024-03-22,Delhi,1871,Rosogolla,148,Dessert
+2024-03-06,Delhi,1731,Sabudana Khichdi,380,Breakfast
+2024-03-31,Hyderabad,1806,Rajma Chawal,81,Main Course
+2024-03-02,Mumbai,1356,Idli Sambar,60,Breakfast
+2024-03-01,Hyderabad,1118,Paneer Tikka,260,Starter
+2024-03-29,Mumbai,1725,Misal Pav,434,Snacks
+2024-03-29,Chennai,1790,Misal Pav,112,Snacks
+2024-03-16,Mumbai,1093,Biryani,471,Main Course
+2024-03-05,Delhi,1444,Fish Curry,76,Main Course
+2024-03-07,Mumbai,1161,Ragi Mudde,482,Main Course
+2024-03-08,Hyderabad,1070,Idli Sambar,333,Breakfast
+2024-03-11,Bangalore,1131,Chicken 65,97,Starter
+2024-03-10,Delhi,1829,Modak,119,Dessert
+2024-03-12,Chennai,1951,Modak,407,Dessert
+2024-03-10,Hyderabad,1319,Ragi Mudde,388,Main Course
+2024-03-12,Pune,1557,Dosa,417,Breakfast
+2024-03-15,Delhi,1447,Sandesh,143,Dessert
+2024-03-03,Chennai,1892,Masala Dosa,438,Breakfast
+2024-03-25,Mumbai,1231,Chole Bhature,134,Breakfast
+2024-03-20,Bangalore,1158,Matki Bhel,360,Snacks
+2024-03-28,Hyderabad,1046,Pav Bhaji,275,Main Course
+2024-03-10,Pune,1020,Sabudana Khichdi,86,Breakfast
+2024-03-18,Pune,1549,Sabudana Khichdi,188,Breakfast
+2024-03-16,Pune,1811,Hyderabadi Haleem,367,Main Course
+2024-03-19,Kolkata,1470,Masala Dosa,492,Breakfast
+2024-03-08,Chennai,1760,Pav Bhaji,333,Main Course
+2024-03-22,Chennai,1208,Ragi Mudde,217,Main Course
+2024-03-03,Chennai,1632,Double Ka Meetha,469,Dessert
+2024-03-21,Delhi,1924,Misal Pav,270,Snacks
+2024-03-18,Pune,1647,Biryani,485,Main Course
+2024-03-29,Mumbai,1459,Rosogolla,477,Dessert
+2024-03-29,Delhi,1724,Chicken Roll,193,Snacks
+2024-03-12,Kolkata,1429,Sandesh,437,Dessert
+2024-03-11,Delhi,1907,Rajma Chawal,113,Main Course
+2024-03-28,Hyderabad,1121,Idli Sambar,90,Breakfast
+2024-03-08,Hyderabad,1634,Chole Bhature,273,Breakfast
+2024-03-05,Chennai,1183,Chicken Roll,453,Snacks
+2024-03-16,Chennai,1409,Pav Bhaji,85,Main Course
+2024-03-27,Mumbai,1551,Rajma Chawal,301,Main Course
+2024-03-27,Hyderabad,1843,Rava Idli,362,Breakfast
+2024-03-27,Delhi,1833,Sandesh,323,Dessert
+2024-03-16,Chennai,1426,Hyderabadi Haleem,206,Main Course
+2024-03-20,Kolkata,1393,Paniyaram,348,Snacks
+2024-03-11,Bangalore,1184,Masala Dosa,277,Breakfast
+2024-03-24,Delhi,1597,Matki Bhel,409,Snacks
+2024-03-20,Bangalore,1851,Paneer Tikka,358,Starter
+2024-03-23,Pune,1538,Paneer Tikka,98,Starter
+2024-03-29,Hyderabad,1990,Sabudana Khichdi,339,Breakfast
+2024-03-29,Delhi,1665,Mutton Biryani,183,Main Course
+2024-03-30,Chennai,1976,Poha,425,Breakfast
+2024-03-31,Pune,1392,Chicken Roll,183,Snacks
+2024-03-26,Bangalore,1402,Biryani,153,Main Course
+2024-03-21,Chennai,1854,Sandesh,186,Dessert
+2024-03-31,Kolkata,1512,Double Ka Meetha,366,Dessert
+2024-03-09,Mumbai,1624,Mutton Biryani,239,Main Course
+2024-03-08,Delhi,1941,Sabudana Khichdi,99,Breakfast
+2024-03-30,Chennai,1757,Ragi Mudde,208,Main Course
+2024-03-11,Kolkata,1140,Vada Pav,404,Snacks
+2024-03-22,Kolkata,1666,Ragi Mudde,248,Main Course
+2024-03-03,Delhi,1310,Ragi Mudde,496,Main Course
+2024-03-25,Chennai,1056,Sandesh,118,Dessert
+2024-03-26,Hyderabad,1122,Vada Pav,206,Snacks
+2024-03-14,Bangalore,1323,Double Ka Meetha,63,Dessert
+2024-03-04,Kolkata,1825,Misal Pav,151,Snacks
+2024-03-10,Bangalore,1961,Chicken 65,435,Starter
+2024-03-11,Mumbai,1534,Ragi Mudde,285,Main Course
+2024-03-22,Delhi,1179,Sabudana Khichdi,88,Breakfast
+2024-03-08,Chennai,1796,Sandesh,127,Dessert
+2024-03-07,Bangalore,1743,Paneer Butter Masala,496,Main Course
+2024-03-03,Kolkata,1734,Dosa,422,Breakfast
+2024-03-25,Bangalore,1255,Chicken 65,385,Starter
+2024-03-21,Mumbai,1319,Fish Curry,493,Main Course
+2024-03-19,Pune,1681,Aloo Paratha,379,Breakfast
+2024-03-14,Pune,1504,Hyderabadi Haleem,236,Main Course
+2024-03-01,Hyderabad,1491,Pav Bhaji,257,Main Course
+2024-03-26,Bangalore,1844,Hyderabadi Haleem,362,Main Course
+2024-03-17,Bangalore,1835,Biryani,378,Main Course
+2024-03-15,Hyderabad,1570,Vada Pav,331,Snacks
+2024-03-07,Pune,1322,Biryani,100,Main Course
+2024-03-25,Bangalore,1186,Hyderabadi Haleem,109,Main Course
+2024-03-26,Hyderabad,1516,Filter Coffee,112,Beverage
+2024-03-21,Delhi,1050,Paneer Tikka,100,Starter
+2024-03-26,Kolkata,1890,Sandesh,399,Dessert
+2024-03-03,Mumbai,1236,Chicken Roll,465,Snacks
+2024-03-09,Delhi,1136,Rava Idli,135,Breakfast
+2024-03-22,Mumbai,1038,Vada Pav,245,Snacks
+2024-03-06,Pune,1820,Ragi Mudde,289,Main Course
+2024-03-03,Bangalore,1777,Sabudana Khichdi,93,Breakfast
+2024-03-16,Pune,1899,Aloo Paratha,422,Breakfast
+2024-03-10,Hyderabad,1738,Chicken 65,234,Starter
+2024-03-23,Chennai,1208,Poha,388,Breakfast
+2024-03-17,Bangalore,1340,Mutton Biryani,259,Main Course
+2024-03-28,Kolkata,1809,Mutton Biryani,233,Main Course
+2024-03-19,Chennai,1369,Masala Dosa,90,Breakfast
+2024-03-31,Kolkata,1579,Masala Dosa,161,Breakfast
+2024-03-27,Chennai,1452,Ragi Mudde,87,Main Course
+2024-03-27,Pune,1029,Paneer Butter Masala,232,Main Course
+2024-03-20,Pune,1375,Paniyaram,93,Snacks
+2024-03-25,Chennai,1215,Paneer Butter Masala,202,Main Course
+2024-03-13,Hyderabad,1029,Masala Dosa,334,Breakfast
+2024-03-17,Kolkata,1830,Paneer Tikka,232,Starter
+2024-03-29,Hyderabad,1219,Double Ka Meetha,353,Dessert
+2024-03-27,Kolkata,1901,Dosa,465,Breakfast
+2024-03-29,Kolkata,1439,Vada Pav,264,Snacks
+2024-03-12,Hyderabad,1331,Matki Bhel,87,Snacks
+2024-03-10,Delhi,1421,Sandesh,73,Dessert
+2024-03-16,Chennai,1734,Chicken 65,92,Starter
+2024-03-17,Mumbai,1973,Paneer Tikka,346,Starter
+2024-03-06,Pune,1033,Rosogolla,63,Dessert
+2024-03-17,Bangalore,1323,Masala Dosa,241,Breakfast
+2024-03-06,Chennai,1355,Rosogolla,472,Dessert
+2024-03-27,Chennai,1859,Hyderabadi Haleem,286,Main Course
+2024-03-28,Delhi,1172,Masala Dosa,302,Breakfast
+2024-03-08,Kolkata,1874,Aloo Paratha,330,Breakfast
+2024-03-16,Bangalore,1153,Fish Curry,82,Main Course
+2024-03-22,Kolkata,1054,Filter Coffee,272,Beverage
+2024-03-14,Pune,1356,Idli Sambar,159,Breakfast
+2024-03-24,Chennai,1988,Rosogolla,462,Dessert
+2024-03-25,Chennai,1458,Aloo Paratha,191,Breakfast
+2024-03-28,Kolkata,1787,Fish Curry,227,Main Course
+2024-03-01,Pune,1822,Paneer Butter Masala,199,Main Course
+2024-03-20,Mumbai,1536,Dosa,291,Breakfast
+2024-03-30,Pune,1322,Biryani,133,Main Course
+2024-03-13,Bangalore,1594,Vada Pav,336,Snacks
+2024-03-16,Bangalore,1267,Fish Curry,406,Main Course
+2024-03-16,Delhi,1870,Modak,182,Dessert
+2024-03-06,Delhi,1631,Mutton Biryani,261,Main Course
+2024-03-18,Chennai,1522,Vada Pav,474,Snacks
+2024-03-28,Kolkata,1211,Filter Coffee,73,Beverage
+2024-03-21,Bangalore,1849,Paniyaram,263,Snacks
+2024-03-14,Chennai,1695,Dosa,233,Breakfast
+2024-03-12,Pune,1936,Sabudana Khichdi,286,Breakfast
+2024-03-10,Mumbai,1757,Vada Pav,414,Snacks
+2024-03-24,Pune,1388,Pav Bhaji,271,Main Course
+2024-03-13,Hyderabad,1958,Dosa,418,Breakfast
+2024-03-14,Kolkata,1156,Masala Dosa,354,Breakfast
+2024-03-16,Hyderabad,1851,Paneer Butter Masala,107,Main Course
+2024-03-13,Hyderabad,1938,Fish Curry,267,Main Course
+2024-03-16,Hyderabad,1908,Masala Dosa,286,Breakfast
+2024-03-03,Pune,1890,Double Ka Meetha,296,Dessert
+2024-03-20,Hyderabad,1754,Masala Dosa,344,Breakfast
+2024-03-04,Kolkata,1101,Double Ka Meetha,384,Dessert
+2024-03-31,Hyderabad,1339,Double Ka Meetha,114,Dessert
+2024-03-10,Kolkata,1946,Double Ka Meetha,479,Dessert
+2024-03-28,Hyderabad,1791,Paneer Butter Masala,361,Main Course
+2024-03-10,Delhi,1187,Misal Pav,83,Snacks
+2024-03-17,Bangalore,1703,Dosa,330,Breakfast
+2024-03-14,Chennai,1987,Misal Pav,449,Snacks
+2024-03-25,Delhi,1721,Rosogolla,245,Dessert
+2024-03-30,Hyderabad,1735,Matki Bhel,110,Snacks
+2024-03-23,Kolkata,1683,Ragi Mudde,315,Main Course
+2024-03-08,Chennai,1364,Matki Bhel,78,Snacks
+2024-03-12,Hyderabad,1506,Poha,145,Breakfast
+2024-03-02,Hyderabad,1168,Biryani,279,Main Course
+2024-03-10,Mumbai,1720,Idli Sambar,298,Breakfast
+2024-03-11,Delhi,1190,Biryani,456,Main Course
+2024-03-09,Bangalore,1860,Chicken 65,329,Starter
+2024-03-16,Pune,1062,Chicken 65,108,Starter
+2024-03-07,Kolkata,1435,Paniyaram,93,Snacks
+2024-03-07,Kolkata,1054,Chole Bhature,398,Breakfast
+2024-03-07,Chennai,1649,Fish Curry,288,Main Course
+2024-03-16,Hyderabad,1982,Hyderabadi Haleem,383,Main Course
+2024-03-21,Delhi,1070,Double Ka Meetha,183,Dessert
+2024-03-20,Hyderabad,1101,Fish Curry,257,Main Course
+2024-03-11,Bangalore,1656,Rajma Chawal,312,Main Course
+2024-03-14,Mumbai,1247,Filter Coffee,201,Beverage
+2024-03-14,Kolkata,1049,Filter Coffee,316,Beverage
+2024-03-02,Mumbai,1875,Matki Bhel,65,Snacks
+2024-03-11,Pune,1009,Fish Curry,382,Main Course
+2024-03-27,Kolkata,1066,Ragi Mudde,274,Main Course
+2024-03-03,Hyderabad,1099,Biryani,251,Main Course
+2024-03-08,Kolkata,1893,Dosa,400,Breakfast
+2024-03-07,Delhi,1705,Paneer Butter Masala,419,Main Course
+2024-03-01,Kolkata,1347,Chole Bhature,250,Breakfast
+2024-03-23,Pune,1240,Aloo Paratha,75,Breakfast
+2024-03-21,Delhi,1838,Hyderabadi Haleem,341,Main Course
+2024-03-22,Chennai,1774,Sandesh,385,Dessert
+2024-03-15,Pune,1614,Aloo Paratha,455,Breakfast
+2024-03-20,Hyderabad,1628,Aloo Paratha,233,Breakfast
+2024-03-03,Hyderabad,1291,Chole Bhature,105,Breakfast
+2024-03-26,Pune,1978,Matki Bhel,233,Snacks
+2024-03-23,Chennai,1407,Paneer Tikka,60,Starter
+2024-03-06,Mumbai,1917,Mutton Biryani,364,Main Course
+2024-03-19,Delhi,1426,Hyderabadi Haleem,155,Main Course
+2024-03-01,Kolkata,1484,Aloo Paratha,214,Breakfast
+2024-03-07,Delhi,1305,Chicken 65,100,Starter
+2024-03-28,Mumbai,1783,Filter Coffee,342,Beverage
+2024-03-16,Chennai,1587,Idli Sambar,280,Breakfast
+2024-03-26,Bangalore,1926,Vada Pav,159,Snacks
+2024-03-05,Mumbai,1509,Paneer Butter Masala,293,Main Course
+2024-03-01,Kolkata,1697,Rosogolla,179,Dessert
+2024-03-19,Chennai,1720,Poha,352,Breakfast
+2024-03-13,Delhi,1229,Ragi Mudde,86,Main Course
+2024-03-25,Hyderabad,1721,Rosogolla,390,Dessert
+2024-03-11,Chennai,1567,Fish Curry,462,Main Course
+2024-03-16,Hyderabad,1388,Pav Bhaji,160,Main Course
+2024-03-21,Delhi,1296,Matki Bhel,364,Snacks
+2024-03-07,Mumbai,1595,Idli Sambar,482,Breakfast
+2024-03-01,Chennai,1794,Sandesh,105,Dessert
+2024-03-14,Chennai,1003,Rava Idli,247,Breakfast
+2024-03-22,Kolkata,1974,Paneer Butter Masala,245,Main Course
+2024-03-15,Hyderabad,1738,Idli Sambar,436,Breakfast
+2024-03-01,Mumbai,1695,Sandesh,463,Dessert
+2024-03-15,Delhi,1852,Mutton Biryani,183,Main Course
+2024-03-04,Kolkata,1943,Rava Idli,69,Breakfast
+2024-03-11,Hyderabad,1646,Chole Bhature,407,Breakfast
+2024-03-18,Kolkata,1415,Ragi Mudde,167,Main Course
+2024-03-29,Hyderabad,1108,Chicken Roll,93,Snacks
+2024-03-26,Chennai,1412,Poha,419,Breakfast
+2024-03-18,Chennai,1711,Chicken 65,498,Starter
+2024-03-04,Pune,1255,Paniyaram,317,Snacks
+2024-03-09,Kolkata,1642,Vada Pav,495,Snacks
+2024-03-14,Kolkata,1994,Modak,264,Dessert
+2024-03-18,Delhi,1923,Ragi Mudde,186,Main Course
+2024-03-12,Pune,1854,Rosogolla,185,Dessert
+2024-03-15,Mumbai,1368,Pav Bhaji,152,Main Course
+2024-03-04,Bangalore,1171,Hyderabadi Haleem,201,Main Course
+2024-03-20,Pune,1135,Paneer Tikka,352,Starter
+2024-03-11,Chennai,1244,Dosa,65,Breakfast
+2024-03-28,Kolkata,1348,Sabudana Khichdi,311,Breakfast
+2024-03-13,Delhi,1279,Mutton Biryani,285,Main Course
+2024-03-30,Hyderabad,1972,Rajma Chawal,476,Main Course
+2024-03-10,Chennai,1238,Hyderabadi Haleem,405,Main Course
+2024-03-25,Chennai,1413,Rosogolla,332,Dessert
+2024-03-06,Delhi,1670,Mutton Biryani,315,Main Course
+2024-03-10,Mumbai,1677,Ragi Mudde,455,Main Course
+2024-03-20,Pune,1174,Sabudana Khichdi,93,Breakfast
+2024-03-27,Mumbai,1521,Sandesh,253,Dessert
+2024-03-03,Delhi,1302,Pav Bhaji,368,Main Course
+2024-03-19,Mumbai,1456,Hyderabadi Haleem,168,Main Course
+2024-03-11,Kolkata,1101,Rava Idli,337,Breakfast
+2024-03-17,Hyderabad,1069,Dosa,471,Breakfast
+2024-03-24,Bangalore,1089,Vada Pav,103,Snacks
+2024-03-31,Kolkata,1797,Misal Pav,210,Snacks
+2024-03-09,Delhi,1772,Sabudana Khichdi,160,Breakfast
+2024-03-25,Mumbai,1222,Pav Bhaji,168,Main Course
+2024-03-03,Kolkata,1418,Misal Pav,327,Snacks
+2024-03-15,Bangalore,1995,Rosogolla,307,Dessert
+2024-03-05,Delhi,1764,Filter Coffee,134,Beverage
+2024-03-02,Hyderabad,1536,Dosa,316,Breakfast
+2024-03-19,Kolkata,1080,Poha,177,Breakfast
+2024-03-28,Bangalore,1136,Biryani,258,Main Course
+2024-03-25,Bangalore,1577,Sandesh,206,Dessert
+2024-03-13,Kolkata,1968,Idli Sambar,150,Breakfast
+2024-03-04,Mumbai,1122,Poha,401,Breakfast
+2024-03-23,Kolkata,1223,Rava Idli,435,Breakfast
+2024-03-11,Pune,1364,Mutton Biryani,64,Main Course
+2024-03-06,Delhi,1863,Chole Bhature,374,Breakfast
+2024-03-22,Bangalore,1529,Rava Idli,172,Breakfast
+2024-03-30,Chennai,1871,Chicken 65,323,Starter
+2024-03-28,Kolkata,1781,Sandesh,334,Dessert
+2024-03-04,Delhi,1261,Matki Bhel,342,Snacks
+2024-03-06,Kolkata,1968,Double Ka Meetha,360,Dessert
+2024-03-29,Mumbai,1026,Hyderabadi Haleem,138,Main Course
+2024-03-08,Hyderabad,1895,Dosa,483,Breakfast
+2024-03-15,Chennai,1699,Idli Sambar,330,Breakfast
+2024-03-29,Kolkata,1905,Misal Pav,427,Snacks
+2024-03-11,Chennai,1872,Chole Bhature,105,Breakfast
+2024-03-16,Kolkata,1082,Poha,165,Breakfast
+2024-03-20,Mumbai,1394,Rava Idli,104,Breakfast
+2024-03-15,Chennai,1049,Mutton Biryani,347,Main Course
+2024-03-15,Kolkata,1651,Hyderabadi Haleem,261,Main Course
+2024-03-08,Chennai,1659,Fish Curry,372,Main Course
+2024-03-07,Mumbai,1858,Mutton Biryani,382,Main Course
+2024-03-07,Pune,1176,Modak,83,Dessert
+2024-03-21,Bangalore,1630,Ragi Mudde,207,Main Course
+2024-03-31,Bangalore,1073,Filter Coffee,474,Beverage
+2024-03-25,Pune,1686,Chicken Roll,153,Snacks
+2024-03-15,Mumbai,1836,Idli Sambar,416,Breakfast
+2024-03-05,Delhi,1510,Chole Bhature,331,Breakfast
+2024-03-16,Pune,1114,Paneer Tikka,344,Starter
+2024-03-20,Delhi,1592,Poha,165,Breakfast
+2024-03-06,Pune,1085,Rosogolla,428,Dessert
+2024-03-24,Bangalore,1499,Chicken 65,158,Starter
+2024-03-13,Bangalore,1641,Chicken Roll,473,Snacks
+2024-03-04,Pune,1421,Sabudana Khichdi,435,Breakfast
+2024-03-18,Delhi,1508,Sabudana Khichdi,311,Breakfast
+2024-03-27,Mumbai,1066,Paniyaram,52,Snacks
+2024-03-09,Pune,1708,Paneer Tikka,167,Starter
+2024-03-11,Pune,1753,Chole Bhature,118,Breakfast
+2024-03-02,Chennai,1958,Hyderabadi Haleem,399,Main Course
+2024-03-05,Pune,1164,Ragi Mudde,435,Main Course
+2024-03-11,Hyderabad,1214,Vada Pav,350,Snacks
+2024-03-23,Pune,1619,Sabudana Khichdi,192,Breakfast
+2024-03-10,Chennai,1543,Paneer Tikka,300,Starter
+2024-03-26,Bangalore,1065,Paneer Butter Masala,103,Main Course
+2024-03-13,Pune,1269,Double Ka Meetha,467,Dessert
+2024-03-21,Pune,1116,Modak,66,Dessert
+2024-03-21,Pune,1076,Biryani,320,Main Course
+2024-03-31,Hyderabad,1877,Chicken Roll,150,Snacks
+2024-03-20,Mumbai,1871,Paneer Butter Masala,327,Main Course
+2024-03-01,Pune,1152,Chicken Roll,256,Snacks
+2024-03-24,Bangalore,1438,Rajma Chawal,331,Main Course
+2024-03-31,Bangalore,1580,Sabudana Khichdi,175,Breakfast
+2024-03-09,Mumbai,1574,Aloo Paratha,292,Breakfast
+2024-03-06,Kolkata,1044,Misal Pav,178,Snacks
+2024-03-22,Hyderabad,1293,Double Ka Meetha,127,Dessert
+2024-03-04,Delhi,1863,Pav Bhaji,297,Main Course
+2024-03-20,Bangalore,1385,Pav Bhaji,347,Main Course
+2024-03-14,Bangalore,1151,Hyderabadi Haleem,61,Main Course
+2024-03-27,Pune,1258,Vada Pav,248,Snacks
+2024-03-21,Delhi,1107,Modak,222,Dessert
+2024-03-03,Mumbai,1961,Idli Sambar,455,Breakfast
+2024-03-21,Delhi,1611,Mutton Biryani,338,Main Course
+2024-03-17,Bangalore,1610,Double Ka Meetha,332,Dessert
+2024-03-15,Hyderabad,1700,Chicken Roll,326,Snacks
+2024-03-09,Pune,1496,Paneer Tikka,130,Starter
+2024-03-15,Hyderabad,1313,Biryani,499,Main Course
+2024-03-17,Chennai,1306,Dosa,266,Breakfast
+2024-03-04,Mumbai,1432,Chicken Roll,287,Snacks
+2024-03-29,Hyderabad,1567,Ragi Mudde,489,Main Course
+2024-03-24,Bangalore,1530,Aloo Paratha,87,Breakfast
+2024-03-27,Delhi,1602,Ragi Mudde,377,Main Course
+2024-03-10,Delhi,1526,Biryani,424,Main Course
+2024-03-04,Pune,1565,Sandesh,419,Dessert
+2024-03-24,Kolkata,1525,Sandesh,177,Dessert
+2024-03-09,Kolkata,1936,Idli Sambar,287,Breakfast
+2024-03-21,Kolkata,1680,Ragi Mudde,353,Main Course
+2024-03-17,Bangalore,1909,Rosogolla,159,Dessert
+2024-03-03,Kolkata,1191,Chicken 65,122,Starter
+2024-03-23,Kolkata,1937,Rosogolla,237,Dessert
+2024-03-23,Kolkata,1628,Ragi Mudde,83,Main Course
+2024-03-14,Mumbai,1990,Paneer Butter Masala,330,Main Course
+2024-03-30,Chennai,1464,Ragi Mudde,339,Main Course
+2024-03-01,Hyderabad,1086,Chicken 65,170,Starter
+2024-03-02,Delhi,1777,Ragi Mudde,306,Main Course
+2024-03-19,Chennai,1689,Rava Idli,222,Breakfast
+2024-03-28,Chennai,1802,Hyderabadi Haleem,226,Main Course
+2024-03-21,Pune,1270,Ragi Mudde,351,Main Course
+2024-03-02,Hyderabad,1456,Paneer Tikka,460,Starter
+2024-03-18,Kolkata,1813,Filter Coffee,402,Beverage
+2024-03-21,Bangalore,1459,Idli Sambar,319,Breakfast
+2024-03-16,Delhi,1637,Filter Coffee,445,Beverage
+2024-03-02,Chennai,1403,Matki Bhel,498,Snacks
+2024-03-20,Mumbai,1252,Ragi Mudde,51,Main Course
+2024-03-19,Chennai,1271,Chicken 65,68,Starter
+2024-03-03,Kolkata,1869,Paniyaram,278,Snacks
+2024-03-02,Chennai,1718,Modak,237,Dessert
+2024-03-20,Bangalore,1448,Misal Pav,197,Snacks
+2024-03-18,Mumbai,1673,Double Ka Meetha,332,Dessert
+2024-03-26,Hyderabad,1659,Filter Coffee,212,Beverage
+2024-03-26,Hyderabad,1215,Double Ka Meetha,467,Dessert
+2024-03-31,Chennai,1743,Mutton Biryani,56,Main Course
+2024-03-11,Chennai,1605,Rosogolla,274,Dessert
+2024-03-03,Chennai,1462,Sabudana Khichdi,353,Breakfast
+2024-03-07,Hyderabad,1161,Paneer Tikka,488,Starter
+2024-03-10,Pune,1935,Filter Coffee,173,Beverage
+2024-03-10,Hyderabad,1799,Filter Coffee,374,Beverage
+2024-03-25,Pune,1531,Chicken 65,142,Starter
+2024-03-20,Pune,1098,Rosogolla,328,Dessert
+2024-03-09,Hyderabad,1068,Hyderabadi Haleem,392,Main Course
+2024-03-24,Pune,1840,Vada Pav,497,Snacks
+2024-03-09,Pune,1378,Sabudana Khichdi,358,Breakfast
+2024-03-06,Chennai,1675,Paniyaram,335,Snacks
+2024-03-20,Hyderabad,1423,Aloo Paratha,193,Breakfast
+2024-03-09,Kolkata,1224,Paneer Tikka,386,Starter
+2024-03-05,Hyderabad,1064,Vada Pav,463,Snacks
+2024-03-15,Kolkata,1615,Rava Idli,457,Breakfast
+2024-03-24,Mumbai,1935,Paniyaram,65,Snacks
+2024-03-22,Hyderabad,1855,Biryani,109,Main Course
+2024-03-20,Chennai,1508,Double Ka Meetha,309,Dessert
+2024-03-07,Bangalore,1595,Paneer Butter Masala,74,Main Course
+2024-03-19,Mumbai,1840,Paneer Tikka,423,Starter
+2024-03-17,Pune,1496,Paneer Tikka,444,Starter
+2024-03-17,Bangalore,1944,Masala Dosa,292,Breakfast
+2024-03-14,Chennai,1617,Rajma Chawal,250,Main Course
+2024-03-13,Hyderabad,1569,Ragi Mudde,394,Main Course
+2024-03-04,Pune,1246,Paneer Tikka,301,Starter
+2024-03-01,Bangalore,1860,Chicken Roll,256,Snacks
+2024-03-10,Chennai,1514,Paneer Tikka,118,Starter
+2024-03-23,Delhi,1711,Rosogolla,96,Dessert
+2024-03-12,Chennai,1343,Modak,348,Dessert
+2024-03-26,Kolkata,1145,Mutton Biryani,371,Main Course
+2024-03-21,Chennai,1258,Paneer Butter Masala,418,Main Course
+2024-03-24,Kolkata,1805,Chicken 65,279,Starter
+2024-03-31,Chennai,1872,Rosogolla,254,Dessert
+2024-03-24,Mumbai,1457,Biryani,262,Main Course
+2024-03-29,Kolkata,1204,Chicken Roll,333,Snacks
+2024-03-18,Bangalore,1773,Masala Dosa,362,Breakfast
+2024-03-24,Kolkata,1507,Rosogolla,118,Dessert
+2024-03-03,Delhi,1700,Aloo Paratha,435,Breakfast
+2024-03-26,Hyderabad,1571,Pav Bhaji,376,Main Course
+2024-03-15,Hyderabad,1603,Sabudana Khichdi,134,Breakfast
+2024-03-29,Mumbai,1180,Matki Bhel,363,Snacks
+2024-03-14,Pune,1092,Filter Coffee,101,Beverage
+2024-03-27,Delhi,1387,Chole Bhature,175,Breakfast
+2024-03-01,Bangalore,1997,Pav Bhaji,242,Main Course
+2024-03-26,Hyderabad,1697,Pav Bhaji,490,Main Course
+2024-03-21,Delhi,1358,Fish Curry,134,Main Course
+2024-03-02,Pune,1445,Pav Bhaji,483,Main Course
+2024-03-31,Pune,1564,Chicken Roll,411,Snacks
+2024-03-05,Bangalore,1453,Paneer Tikka,334,Starter
+2024-03-12,Pune,1477,Vada Pav,420,Snacks
+2024-03-06,Chennai,1772,Matki Bhel,460,Snacks
+2024-03-20,Hyderabad,1764,Pav Bhaji,472,Main Course
+2024-03-22,Bangalore,1919,Rava Idli,316,Breakfast
+2024-03-18,Chennai,1049,Chicken Roll,431,Snacks
+2024-03-02,Hyderabad,1693,Biryani,53,Main Course
+2024-03-19,Hyderabad,1638,Matki Bhel,483,Snacks
+2024-03-24,Mumbai,1473,Misal Pav,52,Snacks
+2024-03-20,Bangalore,1034,Misal Pav,356,Snacks
+2024-03-13,Delhi,1675,Vada Pav,204,Snacks
+2024-03-29,Mumbai,1783,Sabudana Khichdi,416,Breakfast
+2024-03-16,Kolkata,1910,Aloo Paratha,267,Breakfast
+2024-03-15,Delhi,1557,Rajma Chawal,240,Main Course
+2024-03-19,Pune,1283,Matki Bhel,254,Snacks
+2024-03-26,Kolkata,1047,Pav Bhaji,103,Main Course
+2024-03-10,Chennai,1736,Dosa,150,Breakfast
+2024-03-14,Chennai,1538,Dosa,252,Breakfast
+2024-03-08,Kolkata,1016,Mutton Biryani,239,Main Course
+2024-03-30,Bangalore,1739,Ragi Mudde,202,Main Course
+2024-03-03,Chennai,1586,Paneer Butter Masala,74,Main Course
+2024-03-19,Delhi,1202,Aloo Paratha,69,Breakfast
+2024-03-28,Delhi,1747,Ragi Mudde,469,Main Course
+2024-03-09,Kolkata,1446,Double Ka Meetha,348,Dessert
+2024-03-09,Chennai,1041,Rava Idli,51,Breakfast
+2024-03-09,Kolkata,1524,Chole Bhature,164,Breakfast
+2024-03-01,Delhi,1185,Sabudana Khichdi,231,Breakfast
+2024-03-22,Chennai,1447,Rosogolla,401,Dessert
+2024-03-10,Chennai,1572,Modak,484,Dessert
+2024-03-16,Bangalore,1304,Biryani,55,Main Course
+2024-03-06,Hyderabad,1724,Aloo Paratha,413,Breakfast
+2024-03-16,Bangalore,1403,Paniyaram,481,Snacks
+2024-03-14,Kolkata,1608,Misal Pav,118,Snacks
+2024-03-10,Mumbai,1612,Double Ka Meetha,461,Dessert
+2024-03-01,Chennai,1051,Pav Bhaji,437,Main Course
+2024-03-07,Delhi,1856,Masala Dosa,475,Breakfast
+2024-03-22,Bangalore,1738,Filter Coffee,429,Beverage
+2024-03-06,Pune,1998,Rava Idli,138,Breakfast
+2024-03-16,Mumbai,1436,Misal Pav,400,Snacks
+2024-03-15,Delhi,1199,Paneer Tikka,487,Starter
+2024-03-30,Pune,1714,Aloo Paratha,438,Breakfast
+2024-03-27,Delhi,1676,Dosa,392,Breakfast
+2024-03-20,Bangalore,1516,Rava Idli,196,Breakfast
+2024-03-09,Chennai,1915,Mutton Biryani,293,Main Course
+2024-03-14,Delhi,1559,Matki Bhel,445,Snacks
+2024-03-02,Chennai,1354,Aloo Paratha,325,Breakfast
+2024-03-09,Bangalore,1486,Vada Pav,90,Snacks
+2024-03-30,Kolkata,1667,Rosogolla,265,Dessert
+2024-03-26,Hyderabad,1431,Pav Bhaji,188,Main Course
+2024-03-27,Hyderabad,1576,Paneer Butter Masala,479,Main Course
+2024-03-31,Bangalore,1143,Chicken 65,392,Starter
+2024-03-26,Bangalore,1059,Idli Sambar,415,Breakfast
+2024-03-18,Hyderabad,1252,Aloo Paratha,333,Breakfast
+2024-03-03,Kolkata,1890,Biryani,322,Main Course
+2024-03-16,Chennai,1101,Rajma Chawal,252,Main Course
+2024-03-10,Bangalore,1581,Filter Coffee,422,Beverage
+2024-03-31,Delhi,1869,Hyderabadi Haleem,456,Main Course
+2024-03-30,Chennai,1232,Filter Coffee,81,Beverage
+2024-03-16,Kolkata,1392,Paneer Butter Masala,110,Main Course
+2024-03-17,Kolkata,1355,Hyderabadi Haleem,309,Main Course
+2024-03-22,Kolkata,1363,Idli Sambar,242,Breakfast
+2024-03-07,Hyderabad,1160,Misal Pav,258,Snacks
+2024-03-05,Bangalore,1780,Chicken 65,148,Starter
+2024-03-25,Mumbai,1613,Mutton Biryani,69,Main Course
+2024-03-22,Mumbai,1000,Chicken Roll,357,Snacks
+2024-03-03,Bangalore,1460,Paneer Tikka,389,Starter
+2024-03-05,Mumbai,1558,Matki Bhel,319,Snacks
+2024-03-31,Pune,1430,Chicken 65,353,Starter
+2024-03-29,Chennai,1550,Double Ka Meetha,136,Dessert
+2024-03-30,Hyderabad,1293,Chicken Roll,471,Snacks
+2024-03-11,Kolkata,1767,Masala Dosa,491,Breakfast
+2024-03-01,Mumbai,1138,Biryani,366,Main Course
+2024-03-08,Mumbai,1433,Matki Bhel,320,Snacks
+2024-03-30,Delhi,1886,Fish Curry,175,Main Course
+2024-03-12,Delhi,1741,Chicken 65,210,Starter
+2024-03-25,Kolkata,1167,Paneer Butter Masala,259,Main Course
+2024-03-22,Mumbai,1262,Matki Bhel,187,Snacks
+2024-03-03,Bangalore,1084,Matki Bhel,101,Snacks
+2024-03-06,Hyderabad,1811,Poha,134,Breakfast
+2024-03-10,Chennai,1731,Vada Pav,491,Snacks
+2024-03-09,Kolkata,1657,Idli Sambar,110,Breakfast
+2024-03-23,Chennai,1923,Fish Curry,288,Main Course
+2024-03-17,Mumbai,1717,Chicken 65,262,Starter
+2024-03-30,Chennai,1121,Fish Curry,57,Main Course
+2024-03-08,Hyderabad,1125,Misal Pav,217,Snacks
+2024-03-10,Bangalore,1260,Mutton Biryani,70,Main Course
+2024-03-02,Bangalore,1265,Dosa,157,Breakfast
+2024-03-13,Kolkata,1388,Chole Bhature,149,Breakfast
+2024-03-20,Bangalore,1748,Poha,440,Breakfast
+2024-03-02,Chennai,1761,Biryani,239,Main Course
+2024-03-23,Mumbai,1195,Modak,250,Dessert
+2024-03-05,Bangalore,1903,Dosa,342,Breakfast
+2024-03-23,Chennai,1006,Rosogolla,246,Dessert
+2024-03-01,Delhi,1058,Hyderabadi Haleem,465,Main Course
+2024-03-19,Bangalore,1753,Chicken Roll,231,Snacks
+2024-03-17,Kolkata,1744,Rosogolla,363,Dessert
+2024-03-07,Pune,1075,Matki Bhel,397,Snacks
+2024-03-30,Mumbai,1914,Modak,303,Dessert
+2024-03-24,Chennai,1942,Dosa,351,Breakfast
+2024-03-31,Chennai,1112,Paniyaram,180,Snacks
+2024-03-08,Hyderabad,1538,Misal Pav,443,Snacks
+2024-03-05,Pune,1008,Matki Bhel,390,Snacks
+2024-03-21,Bangalore,1933,Pav Bhaji,215,Main Course
+2024-03-01,Kolkata,1303,Sabudana Khichdi,157,Breakfast
+2024-03-03,Chennai,1408,Mutton Biryani,442,Main Course
+2024-03-07,Chennai,1170,Sabudana Khichdi,110,Breakfast
+2024-03-11,Kolkata,1817,Masala Dosa,393,Breakfast
+2024-03-19,Mumbai,1063,Masala Dosa,326,Breakfast
+2024-03-21,Pune,1852,Paniyaram,234,Snacks
+2024-03-05,Pune,1709,Pav Bhaji,143,Main Course
+2024-03-01,Delhi,1430,Poha,64,Breakfast
+2024-03-14,Chennai,1103,Paneer Butter Masala,184,Main Course
+2024-03-12,Chennai,1593,Sandesh,284,Dessert
+2024-03-01,Hyderabad,1256,Idli Sambar,201,Breakfast
+2024-03-02,Delhi,1766,Hyderabadi Haleem,82,Main Course
+2024-03-21,Chennai,1833,Paneer Tikka,213,Starter
+2024-03-27,Pune,1953,Rosogolla,150,Dessert
+2024-03-28,Delhi,1038,Poha,364,Breakfast
+2024-03-28,Bangalore,1633,Poha,149,Breakfast
+2024-03-02,Kolkata,1364,Filter Coffee,163,Beverage
+2024-03-10,Bangalore,1095,Matki Bhel,445,Snacks
+2024-03-16,Pune,1608,Vada Pav,92,Snacks
+2024-03-14,Pune,1208,Modak,132,Dessert
+2024-03-02,Delhi,1158,Rava Idli,126,Breakfast
+2024-03-30,Mumbai,1283,Filter Coffee,123,Beverage
+2024-03-15,Pune,1136,Idli Sambar,401,Breakfast
+2024-03-31,Hyderabad,1803,Fish Curry,368,Main Course
+2024-03-22,Bangalore,1900,Rajma Chawal,453,Main Course
+2024-03-26,Pune,1150,Rava Idli,117,Breakfast
+2024-03-04,Hyderabad,1297,Fish Curry,242,Main Course
+2024-03-22,Bangalore,1171,Hyderabadi Haleem,355,Main Course
+2024-03-17,Hyderabad,1487,Pav Bhaji,331,Main Course
+2024-03-23,Kolkata,1408,Hyderabadi Haleem,169,Main Course
+2024-03-26,Hyderabad,1798,Biryani,286,Main Course
+2024-03-10,Hyderabad,1953,Filter Coffee,435,Beverage
+2024-03-06,Kolkata,1903,Rava Idli,100,Breakfast
+2024-03-16,Bangalore,1067,Poha,200,Breakfast
+2024-03-25,Chennai,1978,Hyderabadi Haleem,87,Main Course
+2024-03-10,Hyderabad,1074,Rajma Chawal,316,Main Course
+2024-03-08,Bangalore,1062,Vada Pav,427,Snacks
+2024-03-01,Delhi,1688,Poha,389,Breakfast
+2024-03-30,Hyderabad,1195,Rosogolla,146,Dessert
+2024-03-23,Pune,1016,Mutton Biryani,348,Main Course
+2024-03-28,Mumbai,1455,Modak,178,Dessert
+2024-03-08,Pune,1366,Idli Sambar,186,Breakfast
+2024-03-15,Chennai,1683,Chole Bhature,430,Breakfast
+2024-03-01,Hyderabad,1814,Fish Curry,87,Main Course
+2024-03-08,Pune,1652,Ragi Mudde,475,Main Course
+2024-03-23,Mumbai,1759,Vada Pav,261,Snacks
+2024-03-01,Mumbai,1756,Idli Sambar,308,Breakfast
+2024-03-13,Mumbai,1264,Vada Pav,422,Snacks
+2024-03-30,Hyderabad,1645,Mutton Biryani,247,Main Course
+2024-03-20,Chennai,1003,Chicken 65,116,Starter
+2024-03-09,Delhi,1575,Paneer Tikka,84,Starter
+2024-03-21,Kolkata,1609,Fish Curry,406,Main Course
+2024-03-18,Bangalore,1686,Paneer Butter Masala,454,Main Course
+2024-03-16,Kolkata,1664,Chicken Roll,301,Snacks
+2024-03-19,Delhi,1535,Rajma Chawal,171,Main Course
+2024-03-14,Chennai,1772,Rava Idli,81,Breakfast
+2024-03-02,Delhi,1303,Chicken Roll,106,Snacks
+2024-03-27,Bangalore,1270,Filter Coffee,221,Beverage
+2024-03-10,Delhi,1643,Matki Bhel,286,Snacks
+2024-03-06,Delhi,1614,Rajma Chawal,417,Main Course
+2024-03-29,Mumbai,1799,Ragi Mudde,381,Main Course
+2024-03-18,Hyderabad,1576,Aloo Paratha,422,Breakfast
+2024-03-13,Hyderabad,1396,Poha,312,Breakfast
+2024-03-11,Pune,1141,Rava Idli,337,Breakfast
+2024-03-21,Hyderabad,1410,Rava Idli,87,Breakfast
+2024-03-02,Pune,1123,Matki Bhel,341,Snacks
+2024-03-18,Pune,1860,Fish Curry,390,Main Course
+2024-03-04,Hyderabad,1276,Aloo Paratha,355,Breakfast
+2024-03-25,Hyderabad,1780,Biryani,347,Main Course
+2024-03-20,Hyderabad,1557,Ragi Mudde,185,Main Course
+2024-03-03,Hyderabad,1953,Rava Idli,341,Breakfast
+2024-03-13,Hyderabad,1273,Chicken 65,186,Starter
+2024-03-28,Mumbai,1709,Aloo Paratha,415,Breakfast
+2024-03-15,Delhi,1881,Mutton Biryani,285,Main Course
+2024-03-02,Hyderabad,1532,Aloo Paratha,281,Breakfast
+2024-03-15,Bangalore,1139,Rava Idli,190,Breakfast
+2024-03-29,Bangalore,1482,Idli Sambar,222,Breakfast
+2024-03-12,Delhi,1766,Pav Bhaji,386,Main Course
+2024-03-23,Hyderabad,1833,Filter Coffee,310,Beverage
+2024-03-25,Hyderabad,1083,Matki Bhel,364,Snacks
+2024-03-02,Hyderabad,1034,Aloo Paratha,219,Breakfast
+2024-03-18,Mumbai,1896,Sabudana Khichdi,333,Breakfast
+2024-03-30,Bangalore,1617,Paneer Butter Masala,472,Main Course
+2024-03-23,Bangalore,1394,Chicken 65,274,Starter
+2024-03-02,Pune,1776,Hyderabadi Haleem,406,Main Course
+2024-03-24,Chennai,1292,Poha,66,Breakfast
+2024-03-28,Pune,1220,Modak,376,Dessert
+2024-03-18,Chennai,1527,Ragi Mudde,269,Main Course
+2024-03-25,Pune,1980,Ragi Mudde,120,Main Course
+2024-03-15,Mumbai,1110,Aloo Paratha,366,Breakfast
+2024-03-15,Mumbai,1163,Rosogolla,138,Dessert
+2024-03-23,Pune,1167,Ragi Mudde,427,Main Course
+2024-03-28,Chennai,1899,Sandesh,239,Dessert
+2024-03-20,Kolkata,1037,Chicken Roll,488,Snacks
+2024-03-19,Bangalore,1907,Mutton Biryani,203,Main Course
+2024-03-26,Mumbai,1052,Mutton Biryani,415,Main Course
+2024-03-05,Pune,1272,Aloo Paratha,279,Breakfast
+2024-03-16,Hyderabad,1373,Aloo Paratha,359,Breakfast
+2024-03-12,Kolkata,1121,Chicken 65,137,Starter
+2024-03-30,Mumbai,1381,Paneer Butter Masala,311,Main Course
+2024-03-12,Bangalore,1994,Filter Coffee,257,Beverage
+2024-03-07,Bangalore,1193,Mutton Biryani,397,Main Course
+2024-03-08,Delhi,1202,Chicken Roll,434,Snacks
+2024-03-25,Delhi,1449,Aloo Paratha,310,Breakfast
+2024-03-23,Bangalore,1260,Rosogolla,286,Dessert
+2024-03-17,Delhi,1966,Sandesh,124,Dessert
+2024-03-19,Pune,1150,Biryani,333,Main Course
+2024-03-26,Delhi,1220,Biryani,209,Main Course
+2024-03-18,Pune,1181,Poha,482,Breakfast
+2024-03-17,Bangalore,1819,Pav Bhaji,293,Main Course
+2024-03-29,Delhi,1330,Double Ka Meetha,415,Dessert
+2024-03-18,Chennai,1120,Sabudana Khichdi,147,Breakfast
+2024-03-30,Hyderabad,1828,Idli Sambar,477,Breakfast
+2024-03-24,Chennai,1881,Idli Sambar,78,Breakfast
+2024-03-31,Pune,1614,Chicken Roll,150,Snacks
+2024-03-17,Mumbai,1133,Idli Sambar,206,Breakfast
+2024-03-19,Hyderabad,1088,Filter Coffee,197,Beverage
+2024-03-10,Kolkata,1376,Pav Bhaji,356,Main Course
+2024-03-15,Hyderabad,1485,Biryani,280,Main Course
+2024-03-07,Pune,1197,Poha,179,Breakfast
+2024-03-15,Bangalore,1254,Pav Bhaji,102,Main Course
+2024-03-01,Hyderabad,1343,Filter Coffee,190,Beverage
+2024-03-12,Kolkata,1305,Double Ka Meetha,256,Dessert
+2024-03-05,Chennai,1500,Paneer Tikka,462,Starter
+2024-03-27,Kolkata,1521,Hyderabadi Haleem,352,Main Course
+2024-03-31,Hyderabad,1643,Ragi Mudde,85,Main Course
+2024-03-12,Pune,1565,Fish Curry,58,Main Course
+2024-03-11,Pune,1288,Poha,437,Breakfast
+2024-03-10,Chennai,1400,Idli Sambar,481,Breakfast
+2024-03-11,Hyderabad,1282,Paniyaram,178,Snacks
+2024-03-14,Delhi,1236,Rava Idli,156,Breakfast
+2024-03-09,Chennai,1987,Sabudana Khichdi,418,Breakfast
+2024-03-18,Chennai,1014,Rava Idli,184,Breakfast
+2024-03-09,Bangalore,1358,Chicken Roll,286,Snacks
+2024-03-28,Bangalore,1683,Poha,315,Breakfast
+2024-03-11,Kolkata,1809,Sandesh,412,Dessert
+2024-03-29,Chennai,1678,Filter Coffee,475,Beverage
+2024-03-31,Mumbai,1470,Sabudana Khichdi,212,Breakfast
+2024-03-20,Kolkata,1529,Chicken 65,278,Starter
+2024-03-24,Kolkata,1044,Filter Coffee,229,Beverage
+2024-03-13,Kolkata,1717,Sabudana Khichdi,411,Breakfast
+2024-03-17,Pune,1067,Modak,349,Dessert
+2024-03-05,Pune,1523,Chicken 65,271,Starter
+2024-03-06,Hyderabad,1570,Pav Bhaji,74,Main Course
+2024-03-09,Hyderabad,1344,Chicken Roll,320,Snacks
+2024-03-14,Chennai,1555,Sandesh,198,Dessert
+2024-03-24,Delhi,1439,Rosogolla,171,Dessert
+2024-03-24,Mumbai,1709,Ragi Mudde,137,Main Course
+2024-03-27,Hyderabad,1837,Paneer Butter Masala,90,Main Course
+2024-03-10,Hyderabad,1951,Vada Pav,492,Snacks
+2024-03-08,Bangalore,1859,Mutton Biryani,424,Main Course
+2024-03-05,Mumbai,1735,Vada Pav,280,Snacks
+2024-03-18,Bangalore,1397,Paneer Butter Masala,266,Main Course
+2024-03-14,Pune,1386,Sandesh,467,Dessert
+2024-03-17,Hyderabad,1506,Rajma Chawal,314,Main Course
+2024-03-17,Kolkata,1117,Ragi Mudde,489,Main Course
+2024-03-20,Pune,1438,Hyderabadi Haleem,476,Main Course
+2024-03-24,Kolkata,1929,Chole Bhature,258,Breakfast
+2024-03-17,Mumbai,1020,Sabudana Khichdi,345,Breakfast
+2024-03-29,Pune,1811,Sabudana Khichdi,122,Breakfast
+2024-03-19,Bangalore,1148,Idli Sambar,75,Breakfast
+2024-03-18,Delhi,1506,Hyderabadi Haleem,421,Main Course
+2024-03-01,Mumbai,1600,Paneer Butter Masala,84,Main Course
+2024-03-11,Delhi,1885,Biryani,219,Main Course
+2024-03-22,Hyderabad,1830,Vada Pav,110,Snacks
+2024-03-16,Hyderabad,1282,Aloo Paratha,130,Breakfast
+2024-03-07,Mumbai,1104,Paniyaram,330,Snacks
+2024-03-07,Chennai,1704,Sabudana Khichdi,446,Breakfast
+2024-03-03,Mumbai,1134,Mutton Biryani,305,Main Course
+2024-03-20,Mumbai,1190,Hyderabadi Haleem,257,Main Course
+2024-03-25,Kolkata,1818,Idli Sambar,313,Breakfast
+2024-03-29,Chennai,1190,Double Ka Meetha,177,Dessert
+2024-03-18,Delhi,1826,Paniyaram,433,Snacks
+2024-03-13,Bangalore,1607,Chole Bhature,417,Breakfast
+2024-03-07,Kolkata,1152,Dosa,400,Breakfast
+2024-03-02,Chennai,1249,Dosa,485,Breakfast
+2024-03-14,Pune,1174,Rava Idli,274,Breakfast
+2024-03-29,Pune,1158,Paniyaram,471,Snacks
+2024-03-17,Pune,1024,Matki Bhel,411,Snacks
+2024-03-17,Pune,1976,Idli Sambar,424,Breakfast
+2024-03-24,Pune,1671,Chole Bhature,241,Breakfast
+2024-03-19,Delhi,1158,Chicken Roll,226,Snacks
+2024-03-24,Delhi,1515,Pav Bhaji,217,Main Course
+2024-03-27,Kolkata,1138,Sandesh,176,Dessert
+2024-03-22,Bangalore,1775,Rajma Chawal,417,Main Course
+2024-03-10,Pune,1275,Aloo Paratha,227,Breakfast
+2024-03-04,Kolkata,1131,Mutton Biryani,310,Main Course
+2024-03-19,Delhi,1123,Biryani,91,Main Course
+2024-03-07,Mumbai,1957,Misal Pav,277,Snacks
+2024-03-16,Hyderabad,1662,Chicken Roll,228,Snacks
+2024-03-01,Pune,1538,Paneer Tikka,301,Starter
+2024-03-30,Bangalore,1065,Paneer Butter Masala,435,Main Course
+2024-03-31,Chennai,1341,Sabudana Khichdi,87,Breakfast
+2024-03-21,Mumbai,1866,Poha,109,Breakfast
+2024-03-22,Chennai,1132,Sabudana Khichdi,436,Breakfast
+2024-03-01,Pune,1446,Modak,271,Dessert
+2024-03-19,Bangalore,1710,Ragi Mudde,52,Main Course
+2024-03-08,Mumbai,1681,Filter Coffee,320,Beverage
+2024-03-07,Chennai,1673,Ragi Mudde,495,Main Course
+2024-03-15,Kolkata,1351,Mutton Biryani,283,Main Course
+2024-03-21,Pune,1697,Hyderabadi Haleem,234,Main Course
+2024-03-06,Chennai,1859,Chole Bhature,235,Breakfast
+2024-03-02,Delhi,1012,Rosogolla,112,Dessert
+2024-03-28,Delhi,1251,Filter Coffee,409,Beverage
+2024-03-22,Delhi,1885,Biryani,457,Main Course
+2024-03-23,Chennai,1307,Poha,345,Breakfast
+2024-03-28,Delhi,1084,Paneer Tikka,227,Starter
+2024-03-05,Hyderabad,1672,Modak,252,Dessert
+2024-03-26,Hyderabad,1087,Mutton Biryani,159,Main Course
+2024-03-13,Mumbai,1037,Idli Sambar,260,Breakfast
+2024-03-22,Kolkata,1057,Aloo Paratha,73,Breakfast
+2024-03-18,Kolkata,1327,Double Ka Meetha,254,Dessert
+2024-03-17,Bangalore,1750,Vada Pav,313,Snacks
+2024-03-22,Pune,1742,Chole Bhature,454,Breakfast
+2024-03-17,Chennai,1769,Misal Pav,300,Snacks
+2024-03-18,Chennai,1774,Misal Pav,201,Snacks
+2024-03-29,Mumbai,1939,Vada Pav,332,Snacks
+2024-03-19,Chennai,1771,Paniyaram,482,Snacks
+2024-03-07,Delhi,1647,Rajma Chawal,491,Main Course
+2024-03-14,Mumbai,1668,Rava Idli,52,Breakfast
+2024-03-13,Mumbai,1341,Dosa,424,Breakfast
+2024-03-29,Chennai,1801,Dosa,464,Breakfast
+2024-03-28,Mumbai,1996,Filter Coffee,330,Beverage
+2024-03-26,Bangalore,1584,Rosogolla,407,Dessert
+2024-03-13,Hyderabad,1794,Chole Bhature,418,Breakfast
+2024-03-18,Delhi,1476,Idli Sambar,269,Breakfast
+2024-03-27,Chennai,1277,Chicken Roll,157,Snacks
+2024-03-22,Mumbai,1618,Sabudana Khichdi,286,Breakfast
+2024-03-12,Bangalore,1871,Chicken Roll,130,Snacks
+2024-03-12,Bangalore,1981,Pav Bhaji,158,Main Course
+2024-03-10,Delhi,1399,Modak,220,Dessert
+2024-03-27,Pune,1634,Paneer Butter Masala,384,Main Course
+2024-03-15,Kolkata,1386,Poha,60,Breakfast
+2024-03-30,Pune,1618,Mutton Biryani,170,Main Course
+2024-03-19,Chennai,1119,Rosogolla,473,Dessert
+2024-03-29,Hyderabad,1460,Rava Idli,177,Breakfast
+2024-03-02,Hyderabad,1752,Masala Dosa,360,Breakfast
