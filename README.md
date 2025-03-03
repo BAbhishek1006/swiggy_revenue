@@ -1,4 +1,4 @@
-# swiggy_revenue_using_Google_Docs
+# swiggy_revenue_using_Google_Sheets
 We have Raw_data of swiggy orders.
 Now lets do some transformations:
 1.how many unique iteams where sold?
